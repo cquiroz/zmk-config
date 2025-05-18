@@ -12,5 +12,4 @@
                                                      &none  &none &none)
 
 #include "zmk-helpers/key-labels/glove80.h"
-
 #include "base.keymap"
