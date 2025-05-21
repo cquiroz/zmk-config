@@ -31,6 +31,7 @@
               pkgs.cmake
               pkgs.dtc
               pkgs.ninja
+              pkgs.jbang
 
               pkgs.just
               pkgs.yq # Make sure yq resolves to python-yq.
