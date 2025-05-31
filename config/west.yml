@@ -39,9 +39,9 @@ manifest:
       revision: refactor
       path: modules/zmk/eyelash_sofle
     # nice view module
-    # - name: nice-view-mod                 #new entry
-    #   remote: gpeye                       #new entry
-    #   revision: main                      #new entry
+    - name: nice-view-mod                 #new entry
+      remote: gpeye                       #new entry
+      revision: main                      #new entry
     - name: mario-peripheral-animation
       remote: gpeye
       revision: main 
